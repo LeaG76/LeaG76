@@ -17,4 +17,6 @@ I'm actually a student in computer science at the University of Le Havre Normand
 
 ---
 
+#### « 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »
+
 <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&style=flat" alt="leag76" />
