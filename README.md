@@ -1,5 +1,7 @@
 # Hi, I'm Léa 👋 👩‍💻
 
+**« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »**
+
 <img align="right" src="https://github.com/LeaG76/LeaG76/raw/main/pictures/iconGithub.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=200px/>
 
 ### About me
@@ -16,7 +18,5 @@ I'm actually a student in computer science at the University of Le Havre Normand
 ### My skills
 
 ---
-
-#### « 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »
 
 <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&style=flat" alt="leag76" />
