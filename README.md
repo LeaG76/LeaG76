@@ -24,6 +24,12 @@ I'm actually a student in computer science at the University of Le Havre Normand
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat&logo=javascript&logoColor=white" />
 </p>
 
+### Things I also used to code
+
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&style=flat" alt="leag76" />
