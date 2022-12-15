@@ -14,8 +14,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 - 💻  I am currently working on creating my own CV website
 - 🤓  I'd like to learn how to use PhotoShop and improve myself in design
-- 💬  Ask me about iOS development, Swift, accessibility.
-- 📫  How to reach me: kaya@hey.com or Twitter [@kthomas901](twitter.com/kthomas901)
+- 👀  Personal projects: I programmed Discord bots with a friend
 - 🍂  From a very young age, I have always had a passion for animals and nature
 - 🦖  Fun fact: I love dinosaurs, so I'm also passionate about paleontology
 
