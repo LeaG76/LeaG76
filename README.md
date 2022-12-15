@@ -1,8 +1,8 @@
 # Hi! nice to meet you 👋 👩‍💻
 
-<p>Welcome to my page! </br> I'm **Léa** and I'm a French developer analyst <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
+<p>Welcome to my page! </br> I'm <b>Léa</b> and I'm a French developer analyst <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
 
-<p align="center" font-style="italic">« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</p>
+<p align="center"><i>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</i></p>
 
 
 <img align="right" src="https://github.com/LeaG76/LeaG76/raw/main/pictures/iconGithub.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=200px/>
