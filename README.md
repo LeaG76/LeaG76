@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/LeaG76/LeaG76/raw/main/pictures/iconGithub.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=200px/>
 
-### Hi, I'm Kaya 👋
+## About me
 
 I’m an iOS developer, writer and public speaker. I'm the creator of [We Read Too](wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I'm currently a Leaders for Global Operation Fellow at MIT pursuing a dual degree MBA and Masters in Civil and Environmental Engineering. Previously, I worked as a Senior Software Engineer at Calm and a iOS Engineer at Slack. 
 
