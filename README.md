@@ -13,4 +13,8 @@ I'm actually a student in computer science at the University of Le Havre Normand
 - 🍂  From a very young age, I have always had a passion for animals and nature
 - 🦖  Fun fact: I love dinosaurs, so I'm also passionate about paleontology
 
+### My skills
+
+---
+
 <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&style=flat" alt="leag76" />
