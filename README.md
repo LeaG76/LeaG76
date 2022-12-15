@@ -10,8 +10,8 @@ I'm actually a student in computer science at the University of Le Havre Normand
 - 🤓  Continually learning SwiftUI.
 - 💬  Ask me about iOS development, Swift, accessibility.
 - 📫  How to reach me: kaya@hey.com or Twitter [@kthomas901](twitter.com/kthomas901)
-- 😄  Pronouns: she/her
-- 🚴🏽‍♀️  Fun fact: I love cycling, I've done a century ride of 108 miles from Oakland to Sacramento and completed 2 triathlons.
+- 🍂  From a very young age, I have always had a passion for animals and nature.
+- 🦖  Fun fact: I love dinosaurs, so I'm also passionate about paleontology
 
 <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&style=flat" alt="leag76" />
 
