@@ -1,4 +1,6 @@
-# Hi, I'm Léa 👋 👩‍💻
+# Hi! nice to meet you 👋 👩‍💻
+
+<p>Welcome to my page! </br> I'm **Léa** and I'm a French developer analyst <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
 
 *« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »*
 
