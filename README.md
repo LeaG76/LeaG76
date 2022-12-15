@@ -46,6 +46,8 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 ---
 
+<img alt="Commits" src="https://img.shields.io/github/commit-activity/y/leag76/leag76?color=blue&label=Commits&logo=github&logoColor=white" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leag76&layout=compact"/>
 
 <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&style=flat" alt="leag76" />
