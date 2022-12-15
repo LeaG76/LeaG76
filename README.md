@@ -17,7 +17,10 @@ I'm actually a student in computer science at the University of Le Havre Normand
 
 ### My skills
 
-<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat&logo=javascript&logoColor=white" />
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat&logo=javascript&logoColor=white" />
+</p>
 
 ---
 
