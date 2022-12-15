@@ -1,6 +1,6 @@
-# Hi! nice to meet you 👋 👩‍💻
+# Hi! nice to meet you 👋
 
-<p>Welcome to my page! </br> I'm <b>Léa</b> and I'm a French developer analyst <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></p>
+<p>Welcome to my page! </br> I'm <b>Léa</b> and I'm a French developer analyst 👩‍💻</p>
 
 <p align="center"><i>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</i></p>
 
@@ -9,7 +9,7 @@
 
 ### About me
 
-I'm actually a student in computer science at the University of Le Havre Normandie. This year is my last year of master's degree in computer science at the university. But this year I also joined the IES Ingénierie team by becoming an analyst developer in work-study training.
+I'm actually a student in computer science at the University of Le Havre Normandie. This year is my last year of master's degree in computer science at the university. But this year I also joined the IES Ingénierie team by becoming an analyst developer in work-study training. After 5 years of training with the aim of becoming a web developer, I finally understood that ultimately I wanted to be a web designer. I'm really passionate about the design of websites, the creation of the structure, the organization that the site will have when it is created. And that's why I would like this to be my future job.
 
 - 📱  I’m currently working on We Read Too.
 - 🤓  Continually learning SwiftUI.
