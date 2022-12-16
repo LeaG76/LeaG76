@@ -18,7 +18,9 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 - 🦖  Fun fact: I love dinosaurs, so I'm also passionate about paleontology
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leag76&repo=leag76.github.io&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3" />
+  <a href="https://github.com/LeaG76/LeaG76.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leag76&repo=leag76.github.io&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3" />
+  </a>
 </p>
 
 ### My skills
