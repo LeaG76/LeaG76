@@ -22,6 +22,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 <p>
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-0068BA?style=flat&logo=css3&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=git&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat&logo=javascript&logoColor=white" />
@@ -40,11 +41,13 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-8BBF3D?style=flat&logo=Node.js&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-C53635?style=flat&logo=npm&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-4B73C9?style=flat&logo=numpy&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-E31620?style=flat&logo=oracle&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3766AB?style=flat&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-48CEF7?style=flat&logo=react&logoColor=white" />
@@ -52,13 +55,18 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" />
 </p>
 
+Processing
+sublimetext
+
 ### I can work on
 
 <p>
   <img alt="Chrome OS" src="https://img.shields.io/badge/-Chrome_OS-767676?style=flat&logo=google%20chrome&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-D0074E?style=flat&logo=debian&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-ECCE00?style=flat&logo=linux&logoColor=white" />
+  <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime_Text-F79202?style=flat&logo=sublime-text&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-D64613?style=flat&logo=ubuntu&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-2E7EB4?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-086DBE?style=flat&logo=windows&logoColor=white" />
 </p>
 
