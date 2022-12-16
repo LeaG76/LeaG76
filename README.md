@@ -20,11 +20,9 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 ### My website
 
 <p>
-  The repository :
   <a href="https://github.com/LeaG76/LeaG76.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leag76&repo=leag76.github.io&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3" />
   </a></br>
-  The link :
   <a href="https://leag76.github.io/">
     <img alt="My Website" src="https://img.shields.io/badge/-Léa_Gallier's_Website-000000?style=flat&logo=github&logoColor=white" />
   </a>
