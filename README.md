@@ -17,14 +17,19 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 - 🍂  From a very young age, I have always had a passion for animals and nature
 - 🦖  Fun fact: I love dinosaurs, so I'm also passionate about paleontology
 
+
+### My website <a href="https://leag76.github.io/">
+    <img alt="My Website" src="https://img.shields.io/badge/-Léa_Gallier's_Website-000000?style=flat&logo=github&logoColor=white" />
+  </a>
+
 <p>
-  <b>My webiste</b> :
+  <b>My website</b> :
   <a href="https://leag76.github.io/">
     <img alt="My Website" src="https://img.shields.io/badge/-Léa_Gallier's_Website-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leag76&repo=leag76.github.io&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3" />
+<!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=leag76&repo=leag76.github.io&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3" />-->
 
 ### My skills
 
