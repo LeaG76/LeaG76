@@ -79,10 +79,8 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 ---
 
-<img alt="Commits" src="https://img.shields.io/github/commit-activity/y/leag76/leag76?color=blue&label=Commits&logo=github&logoColor=white" />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&ring_color=C1AC95&hide=issues&include_all_commits=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&ring_color=C1AC95&hide=issues&include_all_commits=true&count_private=true" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&layout=compact" />
 </p>
