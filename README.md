@@ -32,7 +32,10 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 ### Things I also used to code
 
 <p>
+  <img alt="C" src="https://img.shields.io/badge/-C-3949AB?style=flat&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-4938AA?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
@@ -50,4 +53,4 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leag76&layout=compact"/>
 
-<img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&style=flat" alt="leag76" />
+<img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&logo=github&style=flat" alt="leag76" />
