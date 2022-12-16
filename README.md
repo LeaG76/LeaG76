@@ -32,9 +32,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 ### Things I also used to code
 
-scala
 numpy
-maven
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-3949AB?style=flat&logo=c&logoColor=white" />
@@ -43,13 +41,24 @@ maven
   <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-8BBF3D?style=flat&logo=Node.js&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-C53635?style=flat&logo=npm&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3766AB?style=flat&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-48CEF7?style=flat&logo=react&logoColor=white" />
+  <img alt="Scala" src="https://img.shields.io/badge/-Scala-D73222?style=flat&logo=scala&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" />
+</p>
+
+### I can work on
+
+<p>
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-D0074E?style=flat&logo=debian&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-ECCE00?style=flat&logo=linux&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-D64613?style=flat&logo=ubuntu&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-086DBE?style=flat&logo=windows&logoColor=white" />
 </p>
 
 ### My computer
