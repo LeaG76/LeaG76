@@ -55,6 +55,7 @@ numpy
 ### I can work on
 
 <p>
+  <img alt="Chrome OS" src="https://img.shields.io/badge/-Chrome_OS-767676?style=flat&logo=google%20chrome&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-D0074E?style=flat&logo=debian&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-ECCE00?style=flat&logo=linux&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-D64613?style=flat&logo=ubuntu&logoColor=white" />
