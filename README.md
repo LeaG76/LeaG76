@@ -4,7 +4,6 @@
 
 <p align="center"><i>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</i></p>
 
-
 <img align="right" src="https://github.com/LeaG76/LeaG76/raw/main/pictures/iconGithub.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=200px/>
 
 ### About me
@@ -17,6 +16,10 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 - 👀  Personal projects: I programmed Discord bots with a friend
 - 🍂  From a very young age, I have always had a passion for animals and nature
 - 🦖  Fun fact: I love dinosaurs, so I'm also passionate about paleontology
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leag76&repo=leag76.github.io&title_color=C1AC95&text_color=000000" />
+</p>
 
 ### My skills
 
@@ -78,6 +81,10 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 <img alt="Commits" src="https://img.shields.io/github/commit-activity/y/leag76/leag76?color=blue&label=Commits&logo=github&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leag76&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&ring_color=C1AC95&hide=issues" />
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leag76&title_color=A76844&text_color=000000&layout=compact" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&logo=github&style=flat" alt="leag76" />
