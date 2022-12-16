@@ -35,12 +35,15 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 ### Things I also used to code
 
 <p>
+  Ajax
   <img alt="C" src="https://img.shields.io/badge/-C-3949AB?style=flat&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-4938AA?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
+  JTable
+  JQuery
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
@@ -49,14 +52,13 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-4B73C9?style=flat&logo=numpy&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-E31620?style=flat&logo=oracle&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
+  Processing
   <img alt="Python" src="https://img.shields.io/badge/-Python-3766AB?style=flat&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-48CEF7?style=flat&logo=react&logoColor=white" />
   <img alt="Scala" src="https://img.shields.io/badge/-Scala-D73222?style=flat&logo=scala&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" />
+  XML
 </p>
-
-Processing
-sublimetext
 
 ### I can work on
 
@@ -76,6 +78,6 @@ sublimetext
 
 <img alt="Commits" src="https://img.shields.io/github/commit-activity/y/leag76/leag76?color=blue&label=Commits&logo=github&logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leag76&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leag76&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&logo=github&style=flat" alt="leag76" />
