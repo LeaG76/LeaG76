@@ -1,4 +1,4 @@
-# Hi! nice to meet you 👋
+# Hi! Nice to meet you 👋
 
 <p>Welcome to my page!</br>I'm <b>Léa</b> and I'm a French developer analyst 👩‍💻</p>
 
@@ -38,14 +38,14 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 ### Things I also used to code
 
 <p>
-  Ajax
+  <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-1F87C4?style=flat&logo=ajax&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-3949AB?style=flat&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-4938AA?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
-  JTable
+  <img alt="JTable" src="https://img.shields.io/badge/-JTable-737373?style=flat&logo=jtable&logoColor=white" />
   JQuery
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
