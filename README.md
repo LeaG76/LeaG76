@@ -46,7 +46,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
   <img alt="JTable" src="https://img.shields.io/badge/-JTable-737373?style=flat&logo=jtable&logoColor=white" />
-  JQuery
+  <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0361A4?style=flat&logo=jquery&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
@@ -55,12 +55,12 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-4B73C9?style=flat&logo=numpy&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-E31620?style=flat&logo=oracle&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
-  Processing
+  <img alt="Processing" src="https://img.shields.io/badge/-Processing-0465F7?style=flat&logo=processing&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3766AB?style=flat&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-48CEF7?style=flat&logo=react&logoColor=white" />
   <img alt="Scala" src="https://img.shields.io/badge/-Scala-D73222?style=flat&logo=scala&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" />
-  XML
+  <img alt="XML" src="https://img.shields.io/badge/-XML-F76300?style=flat&logo=xml&logoColor=white" />
 </p>
 
 ### I can work on
