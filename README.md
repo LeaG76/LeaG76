@@ -33,6 +33,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-1D1D1E?style=flat&logo=powershell&logoColor=white" />
 </p>
 
 ### Things I also used to code
