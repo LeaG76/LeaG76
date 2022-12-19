@@ -44,6 +44,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="C++" src="https://img.shields.io/badge/-C++-4938AA?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-F46A25?style=flat&logo=gitlab&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
   <img alt="JTable" src="https://img.shields.io/badge/-JTable-737373?style=flat&logo=jtable&logoColor=white" />
