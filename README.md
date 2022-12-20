@@ -40,6 +40,8 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 <p>
   <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-1F87C4?style=flat&logo=ajax&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-90BF58?style=flat&logo=android-studio&logoColor=white" />
+  <img alt="Atom" src="https://img.shields.io/badge/-Atom-635659?style=flat&logo=atom&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-3949AB?style=flat&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-4938AA?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
@@ -60,6 +62,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Processing" src="https://img.shields.io/badge/-Processing-0465F7?style=flat&logo=processing&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3766AB?style=flat&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-48CEF7?style=flat&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-212121?style=flat&logo=react&logoColor=white" />
   <img alt="Scala" src="https://img.shields.io/badge/-Scala-D73222?style=flat&logo=scala&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" />
   <img alt="XML" src="https://img.shields.io/badge/-XML-F76300?style=flat&logo=xml&logoColor=white" />
