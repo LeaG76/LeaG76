@@ -44,13 +44,18 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Atom" src="https://img.shields.io/badge/-Atom-635659?style=flat&logo=atom&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-3949AB?style=flat&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-4938AA?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img alt="CLion" src="https://img.shields.io/badge/-CLion-18C0A3?style=flat&logo=clion&logoColor=white" />
+  <img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-767ECB?style=flat&logo=datagrip&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
+  <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-40317A?style=flat&logo=eclipse&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-F46A25?style=flat&logo=gitlab&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-D3376A?style=flat&logo=intellij-idea&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
-  <img alt="JTable" src="https://img.shields.io/badge/-JTable-737373?style=flat&logo=jtable&logoColor=white" />
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0361A4?style=flat&logo=jquery&logoColor=white" />
+  <img alt="JTable" src="https://img.shields.io/badge/-JTable-737373?style=flat&logo=jtable&logoColor=white" />
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-EB5F05?style=flat&logo=jupyter&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
@@ -59,6 +64,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-4B73C9?style=flat&logo=numpy&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-E31620?style=flat&logo=oracle&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
+  <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-CA3BCA?style=flat&logo=phpstorm&logoColor=white" />
   <img alt="Processing" src="https://img.shields.io/badge/-Processing-0465F7?style=flat&logo=processing&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3766AB?style=flat&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-48CEF7?style=flat&logo=react&logoColor=white" />
