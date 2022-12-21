@@ -99,5 +99,5 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <a href="https://leag76.github.io/">
       <img alt="My Website" src="https://img.shields.io/badge/-Léa_Gallier's_Website-000000?style=flat&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=leag76&label=Profile%20views&color=0e75b6&logo=github&style=flat" alt="leag76" />
+  <img alt="Profile View" src="https://komarev.com/ghpvc/?username=leag76&style=flat&color=B5CDA3" />
 </p>
