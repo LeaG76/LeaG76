@@ -24,7 +24,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 ### My skills
 
 <p>
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-0068BA?style=flat&logo=css3&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0068BA?style=flat&logo=css3&logoColor=white" />
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=git&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat&logo=html5&logoColor=white" />
@@ -48,6 +48,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-767ECB?style=flat&logo=datagrip&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-40317A?style=flat&logo=eclipse&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-F46A25?style=flat&logo=gitlab&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
@@ -66,6 +67,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
   <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-CA3BCA?style=flat&logo=phpstorm&logoColor=white" />
   <img alt="Processing" src="https://img.shields.io/badge/-Processing-0465F7?style=flat&logo=processing&logoColor=white" />
+  <img alt="Pug" src="https://img.shields.io/badge/-Pug-52302E?style=flat&logo=pug&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3766AB?style=flat&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-48CEF7?style=flat&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-212121?style=flat&logo=react&logoColor=white" />
@@ -84,6 +86,20 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-D64613?style=flat&logo=ubuntu&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-2E7EB4?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-086DBE?style=flat&logo=windows&logoColor=white" />
+</p>
+
+ ### Technologies that I would like to learn to use
+ 
+ <p>
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-D6082F?style=flat&logo=angular&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8312F5?style=flat&logo=bootstrap&logoColor=white" />
+  <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white" />
+  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-F67276?style=flat&logo=chart.js&logoColor=white" />
+  <img alt="p5.js" src="https://img.shields.io/badge/-p5.js-E61E5B?style=flat&logo=p5.js&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001D34?style=flat&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/-SASS-C76395?style=flat&logo=sass&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-19ACB4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-00BC7C?style=flat&logo=vuedotjs&logoColor=white" />
 </p>
 
  ### My stats
