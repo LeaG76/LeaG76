@@ -48,6 +48,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-767ECB?style=flat&logo=datagrip&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-40317A?style=flat&logo=eclipse&logoColor=white" />
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-01968B?style=flat&logo=elasticsearch&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-666666?style=flat&logo=express&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-F46A25?style=flat&logo=gitlab&logoColor=white" />
@@ -57,6 +58,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0361A4?style=flat&logo=jquery&logoColor=white" />
   <img alt="JTable" src="https://img.shields.io/badge/-JTable-737373?style=flat&logo=jtable&logoColor=white" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-EB5F05?style=flat&logo=jupyter&logoColor=white" />
+  <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-E94C94?style=flat&logo=kibana&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
