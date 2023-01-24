@@ -45,6 +45,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="C" src="https://img.shields.io/badge/-C-3949AB?style=flat&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-4938AA?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="CLion" src="https://img.shields.io/badge/-CLion-18C0A3?style=flat&logo=clion&logoColor=white" />
+  <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F68748?style=flat&logo=d3.js&logoColor=white" />
   <img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-767ECB?style=flat&logo=datagrip&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=white" />
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-40317A?style=flat&logo=eclipse&logoColor=white" />
