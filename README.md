@@ -1,4 +1,4 @@
-# Hi! Nice to meet you 👋
+# Hi! Nice to meet you<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" style="vertical-align: bottom;"/>
 
 <p>Welcome to my page!</br>I'm <b>Léa</b> and I'm a French developer analyst 👩‍💻</p>
 
