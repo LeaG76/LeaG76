@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!</br>I'm <b>Léa</b> and I'm a French developer analyst 👩‍💻</p>
 
-<p align="center"><i>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</i></p>
+<p align="center"><i>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="25" height="25" /></p>
 
 <img align="right" src="https://github.com/LeaG76/LeaG76/raw/main/pictures/iconGithub.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=200px/>
 
@@ -11,11 +11,11 @@
 <p>I'm actually a student in computer science at the University of Le Havre Normandie. This year is my last year of master's degree in computer science at the university. But this year I also joined the IES Ingénierie team by becoming an analyst developer in work-study training.</br>
 After 5 years of training with the aim of becoming a web developer, I finally understood that ultimately I wanted to be a web designer. I'm really passionate about the design of websites, the creation of the structure, the organization that the site will have when it is created. And that's why I would like this to be my future job.</p>
 
-- 💻  I am currently working on creating my own CV website
-- 🤓  I'd like to learn how to use PhotoShop and improve myself in design
-- 👀  Personal projects: I programmed Discord bots with a friend
-- 🍂  From a very young age, I have always had a passion for animals and nature
-- 🦖  Fun fact: I love dinosaurs, so I'm also passionate about paleontology
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> I am currently working on creating my own PortFolio website
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pretzel.png" alt="Pretzel" width="25" height="25" /> I'd like to learn how to use PhotoShop and improve myself in design
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="25" height="25" /> Personal projects: I programmed Discord bots with a friend
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="25" height="25" /> From a very young age, I have always had a passion for animals and nature
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" /> Fun fact: I love dinosaurs, so I'm also passionate about paleontology
 
 <a href="https://github.com/LeaG76/LeaG76.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=leag76&repo=leag76.github.io&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3" />
