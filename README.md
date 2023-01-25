@@ -1,6 +1,6 @@
 # Hi! Nice to meet you<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" style="vertical-align: bottom;"/>
 
-<p>Welcome to my page!</br>I'm <b>Léa</b> and I'm a French developer analyst 👩‍💻</p>
+<p>Welcome to my page!</br>I'm <b>Léa</b> and I'm a French developer analyst <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /></p>
 
 <p align="center"><i>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="25" height="25" /></p>
 
@@ -11,7 +11,7 @@
 <p>I'm actually a student in computer science at the University of Le Havre Normandie. This year is my last year of master's degree in computer science at the university. But this year I also joined the IES Ingénierie team by becoming an analyst developer in work-study training.</br>
 After 5 years of training with the aim of becoming a web developer, I finally understood that ultimately I wanted to be a web designer. I'm really passionate about the design of websites, the creation of the structure, the organization that the site will have when it is created. And that's why I would like this to be my future job.</p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> I am currently working on creating my own PortFolio website
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Feather.png" alt="Feather" width="25" height="25" /> I am currently working on creating my own PortFolio website
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pretzel.png" alt="Pretzel" width="25" height="25" /> I'd like to learn how to use PhotoShop and improve myself in design
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="25" height="25" /> Personal projects: I programmed Discord bots with a friend
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="25" height="25" /> From a very young age, I have always had a passion for animals and nature
