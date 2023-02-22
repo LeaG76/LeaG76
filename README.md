@@ -23,18 +23,38 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 ### My skills
 
-<p>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0068BA?style=flat&logo=css3&logoColor=white" />
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=git&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat&logo=javascript&logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008181?style=flat&logo=latex&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-1D1D1E?style=flat&logo=powershell&logoColor=white" />
-</p>
+<table>
+    <thead>
+        <tr>
+            <th width="300px">Languages</th>
+            <th width="300px">Librairies</th>
+            <th width="300px">Databases</th>
+            <th width="300px">Others</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td align="center">
+            <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0068BA?style=flat&logo=css3&logoColor=white" />
+            <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat&logo=html5&logoColor=white" />
+            <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat&logo=javascript&logoColor=white" />
+            <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008181?style=flat&logo=latex&logoColor=white" />
+            <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+          </td>
+          <td align="center">
+          </td>
+          <td align="center">
+            <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat&logo=mysql&logoColor=white" />
+            <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white" />
+          </td>
+          <td align="center">
+            <img alt="Discord" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" />
+            <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=git&logoColor=white" />
+            <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-1D1D1E?style=flat&logo=powershell&logoColor=white" />
+          </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Things I also used to code
 
