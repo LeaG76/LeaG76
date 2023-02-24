@@ -128,7 +128,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
  ### My stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&ring_color=C1AC95&hide=issues&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&ring_color=C1AC95&hide=issues&count_private=true"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&layout=compact&count-private=true"/>
