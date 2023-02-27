@@ -23,38 +23,20 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 ### My skills
 
-<table>
-    <thead>
-        <tr>
-            <th width="300px">Languages</th>
-            <th width="300px">Librairies</th>
-            <th width="300px">Databases</th>
-            <th width="300px">Others</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-          <td align="center">
-            <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0068BA?style=flat&logo=css3&logoColor=white" />
-            <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat&logo=html5&logoColor=white" />
-            <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat&logo=javascript&logoColor=white" />
-            <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008181?style=flat&logo=latex&logoColor=white" />
-            <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-          </td>
-          <td align="center">
-          </td>
-          <td align="center">
-            <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat&logo=mysql&logoColor=white" />
-            <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white" />
-          </td>
-          <td align="center">
-            <img alt="Discord" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" />
-            <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=git&logoColor=white" />
-            <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-1D1D1E?style=flat&logo=powershell&logoColor=white" />
-          </td>
-        </tr>
-    </tbody>
-</table>
+<p>
+  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-F67276?style=flat&logo=chart.js&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0068BA?style=flat&logo=css3&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=git&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat&logo=html5&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat&logo=javascript&logoColor=white" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008181?style=flat&logo=latex&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-1D1D1E?style=flat&logo=powershell&logoColor=white" />
+</p>
 
 ### Things I also used to code
 
@@ -80,7 +62,6 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="JTable" src="https://img.shields.io/badge/-JTable-737373?style=flat&logo=jtable&logoColor=white" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-EB5F05?style=flat&logo=jupyter&logoColor=white" />
   <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-E94C94?style=flat&logo=kibana&logoColor=white" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-8BBF3D?style=flat&logo=Node.js&logoColor=white" />
@@ -117,7 +98,6 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-D6082F?style=flat&logo=angular&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8312F5?style=flat&logo=bootstrap&logoColor=white" />
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white" />
-  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-F67276?style=flat&logo=chart.js&logoColor=white" />
   <img alt="p5.js" src="https://img.shields.io/badge/-p5.js-E61E5B?style=flat&logo=p5.js&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001D34?style=flat&logo=adobe%20photoshop&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-C76395?style=flat&logo=sass&logoColor=white" />
