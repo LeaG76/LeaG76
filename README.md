@@ -2,7 +2,19 @@
 
 <p>Welcome to my page!</br>I'm <b>Léa</b> and I'm a French developer analyst <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /></p>
 
-<p align="center"><i>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="25" height="25" /></p>
+<p align="center">
+  <span>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="25" height="25" />
+</p>
+
+<p align="center">
+  <a href="https://leag76.github.io/">
+      <img alt="My Website" src="https://img.shields.io/badge/-My_Website-000000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/leag76">
+      <img alt="My CodePen Profile" src="https://img.shields.io/badge/-My_CodePen_Profile-1E1F26?style=flat&logo=codepen&logoColor=white" />
+  </a>
+  <img alt="Profile View" src="https://komarev.com/ghpvc/?username=leag76&style=flat&color=B5CDA3" />
+</p>
 
 <img align="right" src="https://github.com/LeaG76/LeaG76/raw/main/pictures/iconGithub.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=200px/>
 
@@ -109,17 +121,5 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&ring_color=C1AC95&hide=issues&count_private=true"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&layout=compact&count-private=true"/>
-</p>
-
-<p align="center">
-  <a href="https://leag76.github.io/">
-      <img alt="My Website" src="https://img.shields.io/badge/-My_Website-000000?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/leag76">
-      <img alt="My CodePen Profile" src="https://img.shields.io/badge/-My_CodePen_Profile-1E1F26?style=flat&logo=codepen&logoColor=white" />
-  </a>
-  <img alt="Profile View" src="https://komarev.com/ghpvc/?username=leag76&style=flat&color=B5CDA3" />
 </p>
