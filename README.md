@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://leag76.github.io/">
-      <img alt="My Website" src="https://img.shields.io/badge/-My_Website-000000?style=flat&logo=github&logoColor=white" />
+      <img alt="My Website" src="https://img.shields.io/badge/-My_Website-575757?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://codepen.io/leag76">
-      <img alt="My CodePen Profile" src="https://img.shields.io/badge/-My_CodePen_Profile-1E1F26?style=flat&logo=codepen&logoColor=white" />
+      <img alt="My CodePen Profile" src="https://img.shields.io/badge/-My_CodePen_Profile-575757?style=flat&logo=codepen&logoColor=white" />
   </a>
   <img alt="Profile View" src="https://komarev.com/ghpvc/?username=leag76&style=flat&color=B5CDA3" />
 </p>
