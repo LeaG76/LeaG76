@@ -36,7 +36,6 @@ After 5 years of training with the aim of becoming a web developer, I finally un
 ### My skills
 
 <p>
-  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-F67276?style=flat&logo=chart.js&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0068BA?style=flat&logo=css3&logoColor=white" />
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=git&logoColor=white" />
@@ -58,6 +57,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Atom" src="https://img.shields.io/badge/-Atom-635659?style=flat&logo=atom&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-3949AB?style=flat&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-4938AA?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-F67276?style=flat&logo=chart.js&logoColor=white" />
   <img alt="CLion" src="https://img.shields.io/badge/-CLion-18C0A3?style=flat&logo=clion&logoColor=white" />
   <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F68748?style=flat&logo=d3.js&logoColor=white" />
   <img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-767ECB?style=flat&logo=datagrip&logoColor=white" />
