@@ -40,11 +40,14 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5562EA?style=flat&logo=discord&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=git&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DD4D25?style=flat&logo=html5&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat&logo=javascript&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008181?style=flat&logo=latex&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-BA7257?style=flat&logo=mariadb&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat&logo=mysql&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-8BBF3D?style=flat&logo=Node.js&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-NPM-C53635?style=flat&logo=npm&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white" />
   <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-1D1D1E?style=flat&logo=powershell&logoColor=white" />
 </p>
@@ -69,15 +72,12 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-F46A25?style=flat&logo=gitlab&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=graphql&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-D3376A?style=flat&logo=intellij-idea&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0361A4?style=flat&logo=jquery&logoColor=white" />
   <img alt="JTable" src="https://img.shields.io/badge/-JTable-737373?style=flat&logo=jtable&logoColor=white" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-EB5F05?style=flat&logo=jupyter&logoColor=white" />
   <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-E94C94?style=flat&logo=kibana&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-CF3C2E?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-8BBF3D?style=flat&logo=Node.js&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-C53635?style=flat&logo=npm&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-4B73C9?style=flat&logo=numpy&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-E31620?style=flat&logo=oracle&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
