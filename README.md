@@ -48,6 +48,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat&logo=mysql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-8BBF3D?style=flat&logo=Node.js&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-C53635?style=flat&logo=npm&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white" />
   <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-1D1D1E?style=flat&logo=powershell&logoColor=white" />
 </p>
@@ -80,7 +81,6 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-499B49?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-4B73C9?style=flat&logo=numpy&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-E31620?style=flat&logo=oracle&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat&logo=php&logoColor=white" />
   <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-CA3BCA?style=flat&logo=phpstorm&logoColor=white" />
   <img alt="Processing" src="https://img.shields.io/badge/-Processing-0465F7?style=flat&logo=processing&logoColor=white" />
   <img alt="Pug" src="https://img.shields.io/badge/-Pug-52302E?style=flat&logo=pug&logoColor=white" />
