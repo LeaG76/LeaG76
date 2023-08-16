@@ -110,6 +110,7 @@ After 5 years of training with the aim of becoming a web developer, I finally un
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-D6082F?style=flat&logo=angular&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8312F5?style=flat&logo=bootstrap&logoColor=white" />
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F76E5F?style=flat&logo=figma&logoColor=white" />
   <img alt="p5.js" src="https://img.shields.io/badge/-p5.js-E61E5B?style=flat&logo=p5.js&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001D34?style=flat&logo=adobe%20photoshop&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-C76395?style=flat&logo=sass&logoColor=white" />
