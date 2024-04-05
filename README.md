@@ -63,7 +63,7 @@ Connect with me here:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/leagallier)](https://www.buymeacoffee.com/leagallier)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white&link=https://codepen.io/leag76)](https://codepen.io/leag76)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=flat&logo=Dribbble&logoColor=white)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=flat&logo=Dribbble&logoColor=white&link=https://dribbble.com/leagallier)](https://dribbble.com/leagallier)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leagallier76/)](https://www.linkedin.com/in/leagallier76/)
 ![ReadCV](https://img.shields.io/badge/Read.cv-111111.svg?style=flat&logo=readdotcv&logoColor=white)
