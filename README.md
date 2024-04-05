@@ -49,7 +49,6 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white" />
   <img alt="Pug" src="https://img.shields.io/badge/Pug-A86454.svg?style=flat&logo=Pug&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" />
   <img alt="SublimeText" src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=flat&logo=Sublime-Text&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000.svg?style=flat&logo=Symfony&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=Trello&logoColor=white" />
