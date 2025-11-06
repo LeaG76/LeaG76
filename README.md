@@ -65,24 +65,8 @@ Connect with me here:
 
 ### My stats
 
-<details open>
-  <summary><b>Github stats</b></summary>
-  <br/>
-  <p align="center">
-    <img align=top src="https://github-stats-alpha.vercel.app/api?username=leag76&cc=fff&tc=000&ic=B5CDA3&bc=E4E2E2" height="192px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leag76&title_color=A76844&text_color=000000&show_icons=true&icon_color=B5CDA3&layout=compact&count-private=true" height="192px"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>Activity Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img align=top src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeaG76&theme=github" height="192px"/>
-    <br>
-    <img align=top src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeaG76&theme=github" height="192px"/>
-    <img align=top src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeaG76&theme=github" height="192px"/>
-  </p>
-</details>
-
-https://repository-images.githubusercontent.com/465169221/3e69b11f-db2b-4699-8158-f5597fbff689
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leaG76&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leaG76&theme=github" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leaG76&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leaG76&theme=github" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leaG76&theme=github&utcOffset=8" />
+</p>
