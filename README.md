@@ -30,6 +30,35 @@
   <img src="https://skillicons.dev/icons?i=bash,git,js,jquery,html,css,figma,notion,npm,nodejs,discordjs,md,mongodb,mysql,postgres,express,pug,php,symfony,typescript,react,java,latex,linux,windows,ubuntu,debian,vscode,sublime" />
 </p>
 
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" />
+  <img src=" https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" />
+</p>
+
 ### Social
 
 Connect with me here:
