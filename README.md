@@ -1,14 +1,13 @@
 # Hi! I'm Léa! 👋
 
 <p align="center">
-  <span>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</span> 🦕
+  🦖 <span>« 𝚕𝚒𝚏𝚎 𝚏𝚒𝚗𝚍𝚜 𝚊 𝚠𝚊𝚢 »</span> 🦕
 </p>
 
 <p align="center">
-  <a href="https://leag76.github.io/">
-      <img alt="My Website" src="https://img.shields.io/badge/-My_Website-575757?style=flat&logo=github&logoColor=white" />
-  </a>
-  <img alt="Profile View" src="https://komarev.com/ghpvc/?username=leag76&style=flat&color=B5CDA3" />
+  <a href="https://github.com/LeaG76/"><img alt="Github" src="https://img.shields.io/badge/Github-Leag76-B5CDA3?style=flat&logo=github&logoColor=white" /></a>
+  <img alt="Profile View" src="https://komarev.com/ghpvc/?username=leag76&style=flat&color=A76844" />
+  <a href="https://leag76.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-leag76.github.io-C1AC95?style=flat&logo=google&logoColor=white" /></a>
 </p>
 
 <img align="right" src="https://github.com/LeaG76/LeaG76/raw/main/pictures/iconGithub.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=200px/>
@@ -28,6 +27,7 @@
 
 <p>
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
+  <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
@@ -36,7 +36,6 @@
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" />
-  <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" />
@@ -47,6 +46,7 @@
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" />
+  <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" />
   <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" />
@@ -58,15 +58,10 @@
 
 Connect with me here:
 
-[![Bento](https://img.shields.io/badge/Bento-768CFF.svg?style=flat&logo=Bento&logoColor=black&link=https://bento.me/leagallier)](https://bento.me/leagallier)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/leagallier)](https://www.buymeacoffee.com/leagallier)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white&link=https://codepen.io/leag76)](https://codepen.io/leag76)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=flat&logo=Dribbble&logoColor=white&link=https://dribbble.com/leagallier)](https://dribbble.com/leagallier)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leagallier76/)](https://www.linkedin.com/in/leagallier76/)
-![ReadCV](https://img.shields.io/badge/Read.cv-111111.svg?style=flat&logo=readdotcv&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)
+<p>
+  <a href="https://www.linkedin.com/in/leagallier76/"><img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" /></a>
+  <a href="https://www.buymeacoffee.com/leagallier/"><img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee3.svg" /></a>
+</p>
 
 ### My stats
 
