@@ -27,32 +27,7 @@
 ### Technologies and tools
 
 <p>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=Canva&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white" />
-  <img alt="EJS" src="https://img.shields.io/badge/EJS-B4CA65.svg?style=flat&logo=EJS&logoColor=black" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F76E5F?style=flat&logo=Figma&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" />
-  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jQuery&logoColor=white" />
-  <img alt="Latex" src="https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=LaTeX&logoColor=white" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=flat&logo=MariaDB&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white" />
-  <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?style=flat&logo=Overleaf&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white" />
-  <img alt="Pug" src="https://img.shields.io/badge/Pug-A86454.svg?style=flat&logo=Pug&logoColor=white" />
-  <img alt="SublimeText" src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=flat&logo=Sublime-Text&logoColor=white" />
-  <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000.svg?style=flat&logo=Symfony&logoColor=white" />
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=Trello&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=bash,git,js,jquery,html,css,figma,notion,npm,nodejs,discordjs,md,mongodb,mysql,postgres,express,pug,php,symfony,typescript,react,java,latex,linux,windows,ubuntu,debian,vscode,sublime" />
 </p>
 
 ### Social
